@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "header": {
+      "Content-Type": "application/json; charset=UTF-8"
+  },
+  "content": {
+     "message": "ok"
+  }
+}

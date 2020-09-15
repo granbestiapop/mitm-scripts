@@ -1,0 +1,9 @@
+{
+  "status": 500,
+  "header": {
+      "Content-Type": "application/json; charset=UTF-8"
+  },
+  "content": {
+     "message": "fail!"
+  }
+}
